@@ -1,0 +1,14 @@
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\bin\Debug\CanDienTu.exe.config
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\bin\Debug\CanDienTu.exe
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\bin\Debug\CanDienTu.pdb
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.csproj.AssemblyReference.cache
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\MainWindow.baml
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\MainWindow.g.cs
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\App.g.cs
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu_MarkupCompile.cache
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.g.resources
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.Properties.Resources.resources
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.csproj.GenerateResource.cache
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.csproj.CoreCompileInputs.cache
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.exe
+C:\abc\PhanMemCan_WPF\CanDienTu\CanDienTu\obj\Debug\CanDienTu.pdb

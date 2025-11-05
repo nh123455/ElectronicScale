@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\abc\\PhanMemCan_WPF\\CanDienTu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD8EE2D-69A0-492F-BF22-883C69F4AA6C}|CanDienTu\\CanDienTu.csproj|c:\\abc\\phanmemcan_wpf\\candientu\\candientu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9CD8EE2D-69A0-492F-BF22-883C69F4AA6C}|CanDienTu\\CanDienTu.csproj|solutionrelative:candientu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\abc\\PhanMemCan_WPF\\CanDienTu\\CanDienTu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CanDienTu\\MainWindow.xaml",
+              "ToolTip": "C:\\abc\\PhanMemCan_WPF\\CanDienTu\\CanDienTu\\MainWindow.xaml",
+              "RelativeToolTip": "CanDienTu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T14:57:18.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
